@@ -1,0 +1,15 @@
+C:\Users\kakti\source\repos\PluginBasedPrograming\BiggerString\bin\Debug\net5.0\PluginFirst.deps.json
+C:\Users\kakti\source\repos\PluginBasedPrograming\BiggerString\bin\Debug\net5.0\PluginFirst.dll
+C:\Users\kakti\source\repos\PluginBasedPrograming\BiggerString\bin\Debug\net5.0\ref\PluginFirst.dll
+C:\Users\kakti\source\repos\PluginBasedPrograming\BiggerString\bin\Debug\net5.0\PluginFirst.pdb
+C:\Users\kakti\source\repos\PluginBasedPrograming\BiggerString\bin\Debug\net5.0\SDK.dll
+C:\Users\kakti\source\repos\PluginBasedPrograming\BiggerString\bin\Debug\net5.0\SDK.pdb
+C:\Users\kakti\source\repos\PluginBasedPrograming\BiggerString\obj\Debug\net5.0\PluginFirst.csprojAssemblyReference.cache
+C:\Users\kakti\source\repos\PluginBasedPrograming\BiggerString\obj\Debug\net5.0\PluginFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kakti\source\repos\PluginBasedPrograming\BiggerString\obj\Debug\net5.0\PluginFirst.AssemblyInfoInputs.cache
+C:\Users\kakti\source\repos\PluginBasedPrograming\BiggerString\obj\Debug\net5.0\PluginFirst.AssemblyInfo.cs
+C:\Users\kakti\source\repos\PluginBasedPrograming\BiggerString\obj\Debug\net5.0\PluginFirst.csproj.CoreCompileInputs.cache
+C:\Users\kakti\source\repos\PluginBasedPrograming\BiggerString\obj\Debug\net5.0\PluginFirst.csproj.CopyComplete
+C:\Users\kakti\source\repos\PluginBasedPrograming\BiggerString\obj\Debug\net5.0\PluginFirst.dll
+C:\Users\kakti\source\repos\PluginBasedPrograming\BiggerString\obj\Debug\net5.0\ref\PluginFirst.dll
+C:\Users\kakti\source\repos\PluginBasedPrograming\BiggerString\obj\Debug\net5.0\PluginFirst.pdb

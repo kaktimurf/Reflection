@@ -1,0 +1,14 @@
+C:\Users\kakti\source\repos\PluginBasedPrograming\PluginSeccond\bin\Debug\net5.0\PluginSeccond.deps.json
+C:\Users\kakti\source\repos\PluginBasedPrograming\PluginSeccond\bin\Debug\net5.0\PluginSeccond.dll
+C:\Users\kakti\source\repos\PluginBasedPrograming\PluginSeccond\bin\Debug\net5.0\ref\PluginSeccond.dll
+C:\Users\kakti\source\repos\PluginBasedPrograming\PluginSeccond\bin\Debug\net5.0\PluginSeccond.pdb
+C:\Users\kakti\source\repos\PluginBasedPrograming\PluginSeccond\bin\Debug\net5.0\SDK.dll
+C:\Users\kakti\source\repos\PluginBasedPrograming\PluginSeccond\bin\Debug\net5.0\SDK.pdb
+C:\Users\kakti\source\repos\PluginBasedPrograming\PluginSeccond\obj\Debug\net5.0\PluginSeccond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kakti\source\repos\PluginBasedPrograming\PluginSeccond\obj\Debug\net5.0\PluginSeccond.AssemblyInfoInputs.cache
+C:\Users\kakti\source\repos\PluginBasedPrograming\PluginSeccond\obj\Debug\net5.0\PluginSeccond.AssemblyInfo.cs
+C:\Users\kakti\source\repos\PluginBasedPrograming\PluginSeccond\obj\Debug\net5.0\PluginSeccond.csproj.CoreCompileInputs.cache
+C:\Users\kakti\source\repos\PluginBasedPrograming\PluginSeccond\obj\Debug\net5.0\PluginSeccond.csproj.CopyComplete
+C:\Users\kakti\source\repos\PluginBasedPrograming\PluginSeccond\obj\Debug\net5.0\PluginSeccond.dll
+C:\Users\kakti\source\repos\PluginBasedPrograming\PluginSeccond\obj\Debug\net5.0\ref\PluginSeccond.dll
+C:\Users\kakti\source\repos\PluginBasedPrograming\PluginSeccond\obj\Debug\net5.0\PluginSeccond.pdb

@@ -1,0 +1,12 @@
+C:\Users\kakti\source\repos\PluginBasedPrograming\SDK\bin\Debug\net5.0\SDK.deps.json
+C:\Users\kakti\source\repos\PluginBasedPrograming\SDK\bin\Debug\net5.0\SDK.dll
+C:\Users\kakti\source\repos\PluginBasedPrograming\SDK\bin\Debug\net5.0\ref\SDK.dll
+C:\Users\kakti\source\repos\PluginBasedPrograming\SDK\bin\Debug\net5.0\SDK.pdb
+C:\Users\kakti\source\repos\PluginBasedPrograming\SDK\obj\Debug\net5.0\SDK.csprojAssemblyReference.cache
+C:\Users\kakti\source\repos\PluginBasedPrograming\SDK\obj\Debug\net5.0\SDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kakti\source\repos\PluginBasedPrograming\SDK\obj\Debug\net5.0\SDK.AssemblyInfoInputs.cache
+C:\Users\kakti\source\repos\PluginBasedPrograming\SDK\obj\Debug\net5.0\SDK.AssemblyInfo.cs
+C:\Users\kakti\source\repos\PluginBasedPrograming\SDK\obj\Debug\net5.0\SDK.csproj.CoreCompileInputs.cache
+C:\Users\kakti\source\repos\PluginBasedPrograming\SDK\obj\Debug\net5.0\SDK.dll
+C:\Users\kakti\source\repos\PluginBasedPrograming\SDK\obj\Debug\net5.0\ref\SDK.dll
+C:\Users\kakti\source\repos\PluginBasedPrograming\SDK\obj\Debug\net5.0\SDK.pdb
